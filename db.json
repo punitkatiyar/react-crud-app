@@ -1,0 +1,16 @@
+{
+  "persons": [
+    {
+      "id": "1",
+      "name": "user",
+      "email": "user@techunitbook.com",
+      "course": "java"
+    },
+    {
+      "id": "2",
+      "name": "admin",
+      "email": "admin@techpunitbook.com",
+      "course": "python"
+    }
+  ]
+}
